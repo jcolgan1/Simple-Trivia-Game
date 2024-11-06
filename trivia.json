@@ -1,0 +1,15 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "&quot;Santa Claus&quot; is a variety of melon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}
