@@ -3,12 +3,52 @@
     "results": [
         {
             "type": "boolean",
-            "difficulty": "medium",
+            "difficulty": "easy",
             "category": "General Knowledge",
-            "question": "&quot;Santa Claus&quot; is a variety of melon.",
+            "question": "The Lego Group was founded in 1932.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Adolf Hitler was born in Australia. ",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Jingle Bells was originally meant for Thanksgiving",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Slovakia is a member of European Union-",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
             ]
         }
     ]

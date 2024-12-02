@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body {
+    background-image: url('https://t4.ftcdn.net/jpg/02/84/90/59/360_F_284905909_skjLeaDlVFakZBWZrwnj1udYV9zrMsM4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: 'Lato';
+}
+
+label {
+    color: blanchedalmond;
+    font-family: 'Lato';
+}
